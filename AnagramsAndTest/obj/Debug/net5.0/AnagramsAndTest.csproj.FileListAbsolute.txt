@@ -1,0 +1,15 @@
+/Users/jeffreygrassals/Projects/AnagramsAndTest/AnagramsAndTest/bin/Debug/net5.0/AnagramsAndTest.deps.json
+/Users/jeffreygrassals/Projects/AnagramsAndTest/AnagramsAndTest/bin/Debug/net5.0/AnagramsAndTest.runtimeconfig.json
+/Users/jeffreygrassals/Projects/AnagramsAndTest/AnagramsAndTest/bin/Debug/net5.0/AnagramsAndTest.runtimeconfig.dev.json
+/Users/jeffreygrassals/Projects/AnagramsAndTest/AnagramsAndTest/bin/Debug/net5.0/AnagramsAndTest.dll
+/Users/jeffreygrassals/Projects/AnagramsAndTest/AnagramsAndTest/bin/Debug/net5.0/ref/AnagramsAndTest.dll
+/Users/jeffreygrassals/Projects/AnagramsAndTest/AnagramsAndTest/bin/Debug/net5.0/AnagramsAndTest.pdb
+/Users/jeffreygrassals/Projects/AnagramsAndTest/AnagramsAndTest/obj/Debug/net5.0/AnagramsAndTest.csprojAssemblyReference.cache
+/Users/jeffreygrassals/Projects/AnagramsAndTest/AnagramsAndTest/obj/Debug/net5.0/AnagramsAndTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffreygrassals/Projects/AnagramsAndTest/AnagramsAndTest/obj/Debug/net5.0/AnagramsAndTest.AssemblyInfoInputs.cache
+/Users/jeffreygrassals/Projects/AnagramsAndTest/AnagramsAndTest/obj/Debug/net5.0/AnagramsAndTest.AssemblyInfo.cs
+/Users/jeffreygrassals/Projects/AnagramsAndTest/AnagramsAndTest/obj/Debug/net5.0/AnagramsAndTest.csproj.CoreCompileInputs.cache
+/Users/jeffreygrassals/Projects/AnagramsAndTest/AnagramsAndTest/obj/Debug/net5.0/AnagramsAndTest.dll
+/Users/jeffreygrassals/Projects/AnagramsAndTest/AnagramsAndTest/obj/Debug/net5.0/ref/AnagramsAndTest.dll
+/Users/jeffreygrassals/Projects/AnagramsAndTest/AnagramsAndTest/obj/Debug/net5.0/AnagramsAndTest.pdb
+/Users/jeffreygrassals/Projects/AnagramsAndTest/AnagramsAndTest/obj/Debug/net5.0/AnagramsAndTest.genruntimeconfig.cache
